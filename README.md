@@ -8,3 +8,5 @@ ________________________________________________________________________
 <img width="559" alt="화면 캡처 2024-01-16 231059" src="https://github.com/GSMIOTjgh/portfolio/assets/132252115/944b5a75-573e-4fec-96cb-bc405935680c">
 
 <img width="542" alt="화면 캡처 2024-01-16 231131" src="https://github.com/GSMIOTjgh/portfolio/assets/132252115/eb592177-68eb-409a-8d2e-667bd4d62b05">
+
+(포트폴리오가 길어서 사진이 잘리는 바람에 가로 비율이 안 맞음)

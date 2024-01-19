@@ -97,3 +97,10 @@ _______________________________________________________________________
 
 [참고영상](https://www.youtube.com/watch?v=5wOnJ3a9tHM)
 
+## 수정 결과
+
+<img width="569" alt="화면 캡처 2024-01-19 224133" src="https://github.com/GSMIOTjgh/portfolio/assets/132252115/ec1b3f4f-51fc-4f37-8566-cc35e49f45d4">
+
+<img width="550" alt="화면 캡처 2024-01-19 224147" src="https://github.com/GSMIOTjgh/portfolio/assets/132252115/2c8ecea9-b365-4557-8a28-babfa5fc3e5f">
+
+<img width="529" alt="화면 캡처 2024-01-19 224208" src="https://github.com/GSMIOTjgh/portfolio/assets/132252115/0592ebc8-0ca2-40e8-8125-700ca927299a">
